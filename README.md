@@ -1,0 +1,2 @@
+# proyecto_laboratorio_4
+Con este sistema se pretende organizar el inventario, gestionar solicitudes y entrega de resultados. Se desea también guardar un histórico de los análisis clínicos para proporcionárselos al paciente si así lo requiere.   Por lo tanto, con el sistema se tiene la finalidad de minimizar el tiempo que se lleva el laboratorista en registrar los datos del paciente y entrega de resultados de los exámenes de laboratorio clínico.
