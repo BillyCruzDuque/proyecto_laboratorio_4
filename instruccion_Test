@@ -1,0 +1,23 @@
+    --REALIZACION DE TEST--
+    
+    
+    Por archivo:
+    
+          1.- Incluir una carpeta con el nombre y el identificador de la función/archivo. 
+          2.- En un archivo de texto escribir de que rama proviene.
+          3.- Incluir una carpeta con el nombre de "screenshots" capturas de cada prueba que se hizo.
+          4.- Si hay ideas para mejorar el codigo, añadir un txt con la lista de mejoras que se podrian implementar.
+          5.- Si ocurre un fallo añadir el archivo a la rama "fallos".
+          
+    ESTA CARPETA DEBE DE IR EN EL DIRECTORIO LLAMADO "ARCHIVOS SEPARADOS"
+          
+
+    Por implementación:
+    
+        1.- Cada implementación de cada función/archivo se debe hacer un test.
+        2.- Añadir el archivo implementado a una carpeta con el nombre e identificador del mismo.
+        2.- Añadir un txt con el nombre e identificador de cada función/archivo que se está implementando.
+        3.- Incluir una carpeta con el nombre de "screenshots" capturas de cada prueba que se hizo.
+        4.- Si ocurre un fallo añadir el archivo a la rama "fallos"
+        
+   CADA CARPETA DEBE DE IR EN EL DIRECTORIO LLAMADO "IMPLEMENTACION DE ARCHIVOS"
